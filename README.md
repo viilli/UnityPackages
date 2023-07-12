@@ -1,5 +1,5 @@
 # UnityPackages
-Custom packages for unity. Like editor scripts. All of them are opencource and they all have CC (creative commons) license, so you can use it for anything and you can edit them freely. If you found a bug, please make an issue or if you are brave enough you can make a pull request.
+Custom packages for unity. Like editor scripts. All of them are opencource and they all have CC (creative commons) license, so you can use it for anything and you can edit them freely. If you found a bug, please make an issue or if you are brave enough you can make a pull request (I don't know how that works). 
 
 To use these packages, place them inside **your Assets folder**. You can** make a subfolde**r for these scripts. Just remember the folder where these they should be is **named Editor**. That folder can be anywhere.
 
