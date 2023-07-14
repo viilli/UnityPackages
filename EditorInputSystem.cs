@@ -2,7 +2,7 @@ using UnityEditor;
 using UnityEngine;
 using System.Collections.Generic;
 
-namespace vilistaa.EditorSystem
+namespace vilistaa.EditorInputSystem
 {
     public static class EditorInputSystem
     {
